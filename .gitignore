@@ -1,0 +1,15 @@
+Logs
+
+*.log
+
+Temporary files
+
+/tmp/*
+
+Sensitive configurations
+
+/etc/bluegreen/deploy.conf
+
+Editor files
+
+.vscode/ .idea/ *.swp
